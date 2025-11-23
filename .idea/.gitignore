@@ -1,6 +1,7 @@
 ### AL ###
 #Template for AL projects for Dynamics 365 Business Central
 #launch.json folder
+.tmp/
 .vscode/
 #Cache folder
 .alcache/
@@ -11,6 +12,10 @@
 #Testing Output folder
 .output/
 #Extension App-file
+..DS_Store
+.Thumbs.dp
+*._old
+*._backup
 *.app
 #Rapid Application Development File
 rad.json
